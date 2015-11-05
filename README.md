@@ -1,4 +1,4 @@
-# pintos - Simple Operating system framework for the 80x86 architecture from Stanford
+## pintos - Simple Operating system framework for the 80x86 architecture from Stanford
 
 ### Features implemented in the pintos kernel
 	- Added file to kernel and tested it
