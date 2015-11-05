@@ -1,6 +1,7 @@
 # pintos - Simple Operating system framework for the 80x86 architecture from Stanford
 
 ### Features implemented in the pintos kernel
+	- Added file to kernel and tested it
 	- Reimplemented timer_sleep mechanism to avoid busy waiting of threads.
 	- Priority based scheduling, higher priority threads get scheduled before lower priority threads
 	- Mechanism to handle situations where if a current thread lowers its priority, and it no longer is the highest priorty thread, then schedule the highest priority thread from the ready queue.
